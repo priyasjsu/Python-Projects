@@ -1,2 +1,2 @@
-# Python JDBC/ORM connection database comparison
+# Python JDBC/ORM Connection Database Comparison
 Python and database connections
